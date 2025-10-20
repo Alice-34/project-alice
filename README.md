@@ -12,7 +12,6 @@ Je m'appelle Alice. Je suis en Master 1 Architecture et Design. Ce dépôt conti
 Projets récents :
 - Réhabilitation d'un atelier industriel
 - Étude de structure paramétrique
-
-- __________________________________________________________________________________
+---
 
 AVANT DE COMMENCER A CHERCHER, LISEZ LE FICIHER instructions.txt
