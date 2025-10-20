@@ -1,5 +1,14 @@
-Cher participant,
+Exercice OSINT — Profil étudiant (Alice-34)
 
 
+Contexte : Alice est étudiante en architecture et design. Son dépôt GitHub contient des travaux et des notes.
 
-Bonne chance ! 
+
+Objectif : retrouver l'adresse email personnelle d'Alice.
+
+
+Fichiers fournis localement : README.md, des fichiers de projet et une image de profil générée par IA. Ne perdez pas de temps à rechercher l'image sur le web.
+
+
+Format du flag : flag{adresse_email_trouvée}
+Exemple : flag{alice.ctf@example.com}
