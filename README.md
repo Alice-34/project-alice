@@ -10,8 +10,8 @@ Je m'appelle Alice. Je suis en Master 1 Architecture et Design. Ce dépôt conti
 
 ---
 Projets récents :
-- Réhabilitation d'un atelier industriel
+- Réhabilitation d'une maison abandonné
 - Étude de structure paramétrique
 ---
 
-AVANT DE COMMENCER A CHERCHER, LISEZ LE FICIHER instructions.txt
+AVANT DE COMMENCER A CHERCHER, LISEZ LE FICHIER instructions.txt
